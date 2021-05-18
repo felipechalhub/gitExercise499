@@ -6,7 +6,7 @@ public class bubblesort {
         int n = array.length;
         bubbleSort(array, n);
         System.out.println(Arrays.toString(array));
-
+        //this is a comment line
     }
 
     static void bubbleSort(int arr[], int n) {
